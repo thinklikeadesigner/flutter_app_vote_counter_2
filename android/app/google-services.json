@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "964540497130",
+    "firebase_url": "https://vote-counter-2.firebaseio.com",
+    "project_id": "vote-counter-2",
+    "storage_bucket": "vote-counter-2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:964540497130:android:c72668540b64cf553fab93",
+        "android_client_info": {
+          "package_name": "com.example.flutter_app_vote_counter_2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "964540497130-4mpi4kln2najgaar6ftddsgi9h1ics76.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_app_vote_counter_2",
+            "certificate_hash": "ed0768e9a635be0bdc7f4f13eea61619515da646"
+          }
+        },
+        {
+          "client_id": "964540497130-i2vfr8uldl8d64m0d09558gd749kb6fo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCThVvfIYRqVqflQuj44kyiZpStIQRcHhc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "964540497130-i2vfr8uldl8d64m0d09558gd749kb6fo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
