@@ -2,6 +2,8 @@
 
 A vote counter app using firebase authentication and realtime database
 
+*work in progress*
+
 
 [video demo of vote counter app](https://storyxpress.co/video/khaw98sbtq3lpiydl)
 
